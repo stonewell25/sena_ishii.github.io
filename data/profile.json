@@ -1,46 +1,47 @@
 {
-  "name": "Your Name",
-  "name_ja": "あなたの名前",
-  "title": "PhD Student / Researcher",
-  "affiliation": "Department of ..., University of ...",
-  "location": "Tokyo, Japan",
+  "name": "Sena Ishii",
+  "name_ja": "石井 聖名",
+  "title": "PhD Student",
+  "affiliation": "Department of Robotics, Tohoku University",
+  "location": "Sendai, Japan",
   "bio": "I am a researcher working on ... My research interests include ... I am passionate about ...",
-  "email": "yourname@example.com",
-  "github": "your-github-username",
+  "email": "s.ishii@srd.mech.tohoku.ac.jp",
+  "github": "stonewell25",
   "google_scholar": "https://scholar.google.com/citations?user=XXXXXXXXX",
   "twitter": "",
   "linkedin": "",
   "cv_link": "",
   "research_interests": [
-    "Machine Learning",
-    "Computer Vision",
-    "Natural Language Processing"
+    "Semantic Mapping",
+    "Autonomous Navigation",
+    "Human-Robot Interaction",
+    "Scene Understanding"
   ],
   "education": [
     {
       "degree": "Ph.D. in Computer Science",
-      "institution": "University of ...",
-      "period": "2022 -- Present",
-      "note": "Advisor: Prof. ..."
+      "institution": "Tohoku University",
+      "period": "2026 -- Present",
+      "note": "Advisor: Prof. Yasuhisa Hirata"
     },
     {
       "degree": "M.S. in Computer Science",
-      "institution": "University of ...",
-      "period": "2020 -- 2022",
-      "note": ""
+      "institution": "Tohoku University",
+      "period": "2024 -- 2026",
+      "note": "Advisor: Prof. Yasuhisa Hirata"
     },
     {
-      "degree": "B.S. in ...",
-      "institution": "University of ...",
-      "period": "2016 -- 2020",
-      "note": ""
+      "degree": "B.S. in Engineering",
+      "institution": "National Institute of Technology, Ichinoseki College",
+      "period": "2017 -- 2024",
+      "note": "Advisor: Prof. Akihiro Suzuki"
     }
   ],
   "experience": [
     {
       "role": "Research Intern",
-      "organization": "Company / Lab Name",
-      "period": "Summer 2023",
+      "organization": "Humanoid Robots Lab, University of Bonn, Germany",
+      "period": "May 2026 -- Present",
       "note": "Worked on ..."
     }
   ]

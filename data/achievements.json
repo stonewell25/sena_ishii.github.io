@@ -1,23 +1,23 @@
 [
   {
+    "year": 2026,
+    "title": "Accepted Paper on Workshop: \"\"",
+    "organization": "Conference Name 2026",
+    "description": "Awarded for the paper \"Your Paper Title\".",
+    "link": "",
+    "type": "award"
+  },
+  {
     "year": 2025,
-    "title": "Best Paper Award",
+    "title": "Accepted Paper: \"\"",
     "organization": "Conference Name 2025",
     "description": "Awarded for the paper \"Your Paper Title\".",
     "link": "",
     "type": "award"
   },
   {
-    "year": 2024,
-    "title": "Invited Talk: \"Topic of Your Talk\"",
-    "organization": "Workshop / Symposium Name",
-    "description": "Presented research on ...",
-    "link": "",
-    "type": "talk"
-  },
-  {
-    "year": 2023,
-    "title": "Research Grant / Scholarship Name",
+    "year": 2026,
+    "title": "Research Grant / ",
     "organization": "Funding Organization",
     "description": "Received funding for research on ...",
     "link": "",
