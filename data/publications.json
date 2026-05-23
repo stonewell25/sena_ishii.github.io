@@ -1,0 +1,35 @@
+[
+  {
+    "year": 2025,
+    "title": "Your Most Recent Paper Title Here",
+    "authors": "Your Name, Co-Author A, Co-Author B",
+    "venue": "Conference or Journal Name 2025",
+    "type": "conference",
+    "link": "https://arxiv.org/",
+    "pdf": "",
+    "code": "",
+    "note": "Oral Presentation"
+  },
+  {
+    "year": 2024,
+    "title": "Another Paper Title: A Study on Something Interesting",
+    "authors": "Your Name, Co-Author C",
+    "venue": "Journal of Something, Vol. 10, 2024",
+    "type": "journal",
+    "link": "",
+    "pdf": "",
+    "code": "https://github.com/your-github-username/project",
+    "note": ""
+  },
+  {
+    "year": 2023,
+    "title": "Earlier Work Title: Exploring New Methods",
+    "authors": "Co-Author D, Your Name, Co-Author E",
+    "venue": "Workshop on ... @ Conference 2023",
+    "type": "workshop",
+    "link": "",
+    "pdf": "",
+    "code": "",
+    "note": ""
+  }
+]

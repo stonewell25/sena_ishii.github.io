@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name — Personal Homepage</title>
+  <meta name="description" content="Personal homepage of Your Name — Researcher">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- ナビゲーション -->
+  <nav>
+    <span class="nav-name" id="nav-name">Your Name</span>
+    <ul class="nav-links">
+      <li><a href="#about">About</a></li>
+      <li><a href="#publications">Publications</a></li>
+      <li><a href="#achievements">Achievements</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main>
+
+    <!-- Hero -->
+    <section id="hero">
+      <div class="hero-photo" aria-hidden="true">
+        <!-- プロフィール写真がある場合は以下のコメントを外して画像パスを指定 -->
+        <!-- <img src="assets/photo.jpg" alt="Profile photo"> -->
+        &#128100;
+      </div>
+      <div class="hero-text">
+        <h1 id="hero-name">Your Name</h1>
+        <p class="subtitle" id="hero-title">PhD Student / Researcher</p>
+        <p class="affiliation" id="hero-affiliation">University of ...</p>
+        <p class="bio" id="hero-bio">Loading...</p>
+        <div class="hero-links" id="hero-links"></div>
+      </div>
+    </section>
+
+    <!-- About / CV -->
+    <section id="about">
+      <h2 class="section-title">About</h2>
+
+      <div class="cv-block">
+        <h3>Research Interests</h3>
+        <div class="interests-list" id="interests"></div>
+      </div>
+
+      <div class="cv-block">
+        <h3>Education</h3>
+        <div id="education-list"></div>
+      </div>
+
+      <div class="cv-block">
+        <h3>Experience</h3>
+        <div id="experience-list"></div>
+      </div>
+    </section>
+
+    <!-- Publications -->
+    <section id="publications">
+      <h2 class="section-title">Publications</h2>
+      <div class="pub-list" id="pub-list">
+        <p style="color: var(--text-muted); font-size: 0.9rem;">Loading...</p>
+      </div>
+    </section>
+
+    <!-- Achievements -->
+    <section id="achievements">
+      <h2 class="section-title">Achievements</h2>
+      <div class="ach-list" id="ach-list">
+        <p style="color: var(--text-muted); font-size: 0.9rem;">Loading...</p>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact">
+      <h2 class="section-title">Contact</h2>
+      <div class="contact-grid">
+        <div class="contact-row">
+          <span class="contact-label">Email</span>
+          <a id="contact-email" href="#">—</a>
+        </div>
+        <div class="contact-row">
+          <span class="contact-label">GitHub</span>
+          <a id="contact-github" href="#" target="_blank" rel="noopener">—</a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>&copy; <span id="footer-year"></span> Your Name. Built with plain HTML/CSS/JS and hosted on GitHub Pages.</p>
+  </footer>
+
+  <script src="js/main.js"></script>
+  <script>
+    document.getElementById('footer-year').textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

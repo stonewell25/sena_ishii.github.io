@@ -1,0 +1,47 @@
+{
+  "name": "Your Name",
+  "name_ja": "あなたの名前",
+  "title": "PhD Student / Researcher",
+  "affiliation": "Department of ..., University of ...",
+  "location": "Tokyo, Japan",
+  "bio": "I am a researcher working on ... My research interests include ... I am passionate about ...",
+  "email": "yourname@example.com",
+  "github": "your-github-username",
+  "google_scholar": "https://scholar.google.com/citations?user=XXXXXXXXX",
+  "twitter": "",
+  "linkedin": "",
+  "cv_link": "",
+  "research_interests": [
+    "Machine Learning",
+    "Computer Vision",
+    "Natural Language Processing"
+  ],
+  "education": [
+    {
+      "degree": "Ph.D. in Computer Science",
+      "institution": "University of ...",
+      "period": "2022 -- Present",
+      "note": "Advisor: Prof. ..."
+    },
+    {
+      "degree": "M.S. in Computer Science",
+      "institution": "University of ...",
+      "period": "2020 -- 2022",
+      "note": ""
+    },
+    {
+      "degree": "B.S. in ...",
+      "institution": "University of ...",
+      "period": "2016 -- 2020",
+      "note": ""
+    }
+  ],
+  "experience": [
+    {
+      "role": "Research Intern",
+      "organization": "Company / Lab Name",
+      "period": "Summer 2023",
+      "note": "Worked on ..."
+    }
+  ]
+}
