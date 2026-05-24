@@ -1,35 +1,13 @@
 [
   {
-    "year": 2025,
-    "title": "Your Most Recent Paper Title Here",
-    "authors": "Your Name, Co-Author A, Co-Author B",
-    "venue": "Conference or Journal Name 2025",
-    "type": "conference",
-    "link": "https://arxiv.org/",
-    "pdf": "",
-    "code": "",
-    "note": "Oral Presentation"
-  },
-  {
-    "year": 2024,
-    "title": "Another Paper Title: A Study on Something Interesting",
-    "authors": "Your Name, Co-Author C",
-    "venue": "Journal of Something, Vol. 10, 2024",
-    "type": "journal",
-    "link": "",
-    "pdf": "",
-    "code": "https://github.com/your-github-username/project",
-    "note": ""
-  },
-  {
-    "year": 2023,
-    "title": "Earlier Work Title: Exploring New Methods",
-    "authors": "Co-Author D, Your Name, Co-Author E",
-    "venue": "Workshop on ... @ Conference 2023",
+    "year": 2026,
+    "title": "Towards Task Planning for Proactive Safety in Home Service Robots: A Scene Graph-Augmented LLM Approach",
+    "authors": "Sena Ishii, Ankit A. Ravakar and Yasuhisa Hirata",
+    "venue": "ICRA 2026 Workshop on Semantics for Reliable Robot Autonomy: From Environment Understanding and Reasoning to Safe Interaction",
     "type": "workshop",
     "link": "",
-    "pdf": "",
+    "pdf": "assets/paper/2026/ICRA2026_WS_Towards_Task_Planning_for_P.pdf",
     "code": "",
-    "note": ""
+    "note": "Accepted"
   }
 ]
