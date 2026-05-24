@@ -6,21 +6,5 @@
     "description": "Awarded for the paper \"Your Paper Title\".",
     "link": "",
     "type": "award"
-  },
-  {
-    "year": 2025,
-    "title": "Accepted Paper: \"\"",
-    "organization": "Conference Name 2025",
-    "description": "Awarded for the paper \"Your Paper Title\".",
-    "link": "",
-    "type": "award"
-  },
-  {
-    "year": 2026,
-    "title": "Research Grant / ",
-    "organization": "Funding Organization",
-    "description": "Received funding for research on ...",
-    "link": "",
-    "type": "grant"
   }
 ]
